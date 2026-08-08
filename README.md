@@ -25,6 +25,10 @@ general, not a clone of any specific broker's proprietary UI or branding.
 | `data_feed.py` | Real-time data — `ccxt`/Binance for crypto, `yfinance` for stocks, plus index quotes and fundamentals (P/E, market cap) |
 | `requirements.txt` | Dependencies |
 
+```
+https://trade-terminal.streamlit.app
+```
+
 ## Run it
 
 ```bash
